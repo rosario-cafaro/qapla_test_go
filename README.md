@@ -14,8 +14,8 @@ Valid parameters JSON response\
 Valid parameters HTML response\
 [http://127.0.0.1:8080/?tracking=ITXXXXXXXXXX](http://127.0.0.1:8080/?tracking=ITXXXXXXXXXX)
 
-Missing parameters JSON response\
+Missing parameter JSON response\
 [http://127.0.0.1:8080/?tracking=&json=1](http://127.0.0.1:8080/?tracking=&json=1)
 
-Missing parameters JSON response\
+Missing parameter HTML response\
 [http://127.0.0.1:8080/?tracking=&json=](http://127.0.0.1:8080/?tracking=&json=)
