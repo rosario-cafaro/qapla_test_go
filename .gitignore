@@ -1,0 +1,22 @@
+# IDEs
+.idea
+.vs
+.vim
+.eclipse
+.atom
+.vscode
+.history
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+log/
+*.log
+
+# Environments/keys
+.aws
+.env
+
+tmp
